@@ -4,7 +4,7 @@ This is a straightforward CRUD (Create, Read, Update, Delete) application built 
 
 ## Video Tutorial with Bahasa Indonesia
 
-(still rendering, slow computer)
+(still rendering, slow computer. Url will be here soon after rendering complete)
 
 ## Getting Started
 
