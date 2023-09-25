@@ -2,6 +2,10 @@
 
 This is a straightforward CRUD (Create, Read, Update, Delete) application built with Django 4, Bootstrap 4, and PostgreSQL.
 
+## Video Tutorial with Bahasa Indonesia
+
+(still rendering, slow computer)
+
 ## Getting Started
 
 Follow these steps to get the project up and running on your local environment:
